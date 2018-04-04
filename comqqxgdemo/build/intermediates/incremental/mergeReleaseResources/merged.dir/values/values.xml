@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fuxk_base_color_white">#ffffff</color>
+    <color name="fuxk_base_divide_line_color">#dcdcdc</color>
+    <color name="gray">#858585</color>
+    <declare-styleable name="ExtendedListView"><attr format="reference" name="scrollBarPanel"/><attr format="reference" name="scrollBarPanelInAnimation"/><attr format="reference" name="scrollBarPanelOutAnimation"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_about_us">关于信鸽</string>
+    <string name="action_back">返回上级</string>
+    <string name="action_clear">清除已收到通知</string>
+    <string name="action_device_token">设备Token</string>
+    <string name="action_diagnosis">一键诊断</string>
+    <string name="action_help_center">帮助中心</string>
+    <string name="action_search">搜索</string>
+    <string name="action_setting">功能设置</string>
+    <string name="app_name"/>
+    <string name="clearCache">清除本地缓存</string>
+    <string name="copyToken">复制Token</string>
+    <string name="delTag">删除标签</string>
+    <string name="device">您的设备Token为：</string>
+    <string name="device_hint">已成功上传至网页端测试设备页面</string>
+    <string name="device_title">您的设备Token为：</string>
+    <string name="register">启动&amp;注册</string>
+    <string name="registerAccount">启动&amp;注册（绑定账号）</string>
+    <string name="strNetworkTipsCancelBtn">取消</string>
+    <string name="strNetworkTipsConfirmBtn">继续下载</string>
+    <string name="strNetworkTipsMessage">你已切换到移动网络，是否继续当前下载？</string>
+    <string name="strNetworkTipsTitle">网络提示</string>
+    <string name="strNotificationClickToContinue">继续下载</string>
+    <string name="strNotificationClickToInstall">点击安装</string>
+    <string name="strNotificationClickToRetry">点击重试</string>
+    <string name="strNotificationClickToView">点击查看</string>
+    <string name="strNotificationDownloadError">下载失败</string>
+    <string name="strNotificationDownloadSucc">下载完成</string>
+    <string name="strNotificationDownloading">正在下载</string>
+    <string name="strNotificationHaveNewVersion">有新版本</string>
+    <string name="strToastCheckUpgradeError">检查新版本失败，请稍后重试</string>
+    <string name="strToastCheckingUpgrade">正在检查，请稍候...</string>
+    <string name="strToastYourAreTheLatestVersion">你已经是最新版了</string>
+    <string name="strUpgradeDialogCancelBtn">下次再说</string>
+    <string name="strUpgradeDialogContinueBtn">继续</string>
+    <string name="strUpgradeDialogFeatureLabel">更新说明</string>
+    <string name="strUpgradeDialogFileSizeLabel">包大小</string>
+    <string name="strUpgradeDialogInstallBtn">安装</string>
+    <string name="strUpgradeDialogRetryBtn">重试</string>
+    <string name="strUpgradeDialogUpdateTimeLabel">更新时间</string>
+    <string name="strUpgradeDialogUpgradeBtn">立即更新</string>
+    <string name="strUpgradeDialogVersionLabel">版本</string>
+    <string name="tag">设置标签</string>
+    <string name="unregister">反注册</string>
+    <string name="version">信鸽Demo 2.3.5</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

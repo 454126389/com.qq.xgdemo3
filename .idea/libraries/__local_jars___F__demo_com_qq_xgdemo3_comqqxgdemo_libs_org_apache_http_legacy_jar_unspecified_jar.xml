@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:F.\demo\com.qq.xgdemo3\comqqxgdemo\libs\org.apache.http.legacy.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/comqqxgdemo/libs/org.apache.http.legacy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

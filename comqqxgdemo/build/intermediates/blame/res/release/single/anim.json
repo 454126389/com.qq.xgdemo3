@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\anim\\out_animation.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\anim\\out_animation.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\anim\\in_animation.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\anim\\in_animation.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\anim\\in.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\anim\\in.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\anim\\out.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\anim\\out.xml"
+    }
+]

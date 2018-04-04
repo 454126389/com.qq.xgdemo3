@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_action_search.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\right.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xhdpi\\right.png"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\nodata.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xhdpi\\nodata.png"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\logo.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\qq_right.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xhdpi\\qq_right.png"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\about.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xhdpi\\about.png"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\update_time.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xhdpi\\update_time.png"
+    }
+]

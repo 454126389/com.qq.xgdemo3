@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\values-xhdpi\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 46,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 44,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\values-xhdpi\\dimen.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 44,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 46,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\values-xhdpi\\dimen.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 46,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 44,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\values-xhdpi\\dimen.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 44,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 44,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\values-xhdpi\\dimen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 42,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\values-xhdpi\\dimen.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 42,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 44,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\values-xhdpi\\dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 44,
+                        "endOffset": 188
+                    }
+                }
+            }
+        ]
+    }
+]

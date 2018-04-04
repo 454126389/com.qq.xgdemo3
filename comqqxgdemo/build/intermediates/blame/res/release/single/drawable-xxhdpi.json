@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\logo.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\nodata.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xxhdpi\\nodata.png"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\right.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xxhdpi\\right.png"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\fuxk_back.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xxhdpi\\fuxk_back.png"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\about.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xxhdpi\\about.png"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_action_search.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\update_time.png",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\drawable-xxhdpi\\update_time.png"
+    }
+]

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e75ca948b7272a3aaacb7c7ee8bbe3280f4e1818\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="115e02104d60c8ea161a57cfcb844f235575a197">
+        <dex dex="F:\demo\com.qq.xgdemo3\comqqxgdemo\build\intermediates\pre-dexed\debug\classes_41b882e5e4e856753a70759f665e59e9c400b032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\3d41fe015154aaef83064e9fdf66e78f912b2335\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="998251183fdbfb40a8d2c5191e4d55edb714a2ba">
+        <dex dex="F:\demo\com.qq.xgdemo3\comqqxgdemo\build\intermediates\pre-dexed\release\classes_98e8319ea1df609cc071290fd7e6f300636a1478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\demo\com.qq.xgdemo3\comqqxgdemo\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_eff36cb3dd5776bcc7dfe63d3c4af3d7d0b02909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\demo\com.qq.xgdemo3\comqqxgdemo\libs\xUtils-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="455d08e790d5728ef6fd13ad4f6a524726c7bd9b">
+        <dex dex="F:\demo\com.qq.xgdemo3\comqqxgdemo\build\intermediates\pre-dexed\debug\xUtils-2.6.2_8c7de11b9c39999f4bd7777e36478c7606cff3ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\12c4dcfdd22d3d98bf1d78fb34399dd35a0bbb43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\demo\com.qq.xgdemo3\comqqxgdemo\build\intermediates\pre-dexed\debug\classes_6720a612582e67423134acfd2d0b2c17603c0b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\12c4dcfdd22d3d98bf1d78fb34399dd35a0bbb43\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\demo\com.qq.xgdemo3\comqqxgdemo\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ff9169f91b47dc718e1d7dac65c9f77f4865a8b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\demo\com.qq.xgdemo3\comqqxgdemo\libs\jg_filter_sdk_1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebfc3cde0309ff27e9568757784eefefc71407a2">
+        <dex dex="F:\demo\com.qq.xgdemo3\comqqxgdemo\build\intermediates\pre-dexed\debug\jg_filter_sdk_1.1_23281f82ca9ddd5e35c19907b92b3d3228ee9789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\demo\com.qq.xgdemo3\comqqxgdemo\libs\wup-1.0.0.E-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5a0917f8418b3726f89ae120182dfb6b884740d">
+        <dex dex="F:\demo\com.qq.xgdemo3\comqqxgdemo\build\intermediates\pre-dexed\debug\wup-1.0.0.E-SNAPSHOT_e49353d637ed997207b9b6bc89cc904289c269e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\demo\com.qq.xgdemo3\comqqxgdemo\libs\mid-core-sdk-3.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3570cc6c1a0e219ddb8e626273a7cb80cd030b">
+        <dex dex="F:\demo\com.qq.xgdemo3\comqqxgdemo\build\intermediates\pre-dexed\debug\mid-core-sdk-3.7.2_d53628eaa105f41e7e699874bc99a634d5685cd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\demo\com.qq.xgdemo3\comqqxgdemo\libs\gson-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a24d508f5e05bd22cc42bd2e2babd7b5466ec9">
+        <dex dex="F:\demo\com.qq.xgdemo3\comqqxgdemo\build\intermediates\pre-dexed\debug\gson-2.2.1_5eed1680c407a0e9ff88ef303de824f689d041fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\demo\com.qq.xgdemo3\comqqxgdemo\libs\Xg_sdk_v3.1_20170417_0946.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dadedb074385555924c5cb7aa42e69ed270aa3cd">
+        <dex dex="F:\demo\com.qq.xgdemo3\comqqxgdemo\build\intermediates\pre-dexed\debug\Xg_sdk_v3.1_20170417_0946_7ceb8df78cf8fd510717e97d6b3e46b23a24ad08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\demo\com.qq.xgdemo3\comqqxgdemo\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="F:\demo\com.qq.xgdemo3\comqqxgdemo\build\intermediates\pre-dexed\debug\org.apache.http.legacy_1400acd0311e482e9a90e06fb8b3d7a5814cb939.jar" />
+    </item>
+
+</items>

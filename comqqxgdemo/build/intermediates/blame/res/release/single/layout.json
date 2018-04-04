@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\xg_notification.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\xg_notification.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\scrollbarpanel.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\scrollbarpanel.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_diagnosis.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\activity_diagnosis.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\menu_item.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\list_item.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\item_push.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\item_push.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\notification.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_about.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_msginfo.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\activity_msginfo.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_device.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\activity_device.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_help.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_setting.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "F:\\demo\\com.qq.xgdemo3\\comqqxgdemo\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
